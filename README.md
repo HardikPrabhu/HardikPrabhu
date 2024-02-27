@@ -8,3 +8,5 @@ My research interests focus on deep learning and generative modelling, emphasisi
 HardikPrabhu/HardikPrabhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![My Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hardikprabhu?cardType=github&theme=city-lights&preferLogin=false)](https://git.io/awesome-stats-card)
