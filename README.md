@@ -6,7 +6,7 @@ Open to collaborating on deep learning research projects.
 ### Get in Touch
 Feel free to reach out for collaborations or discussions on machine learning!
 
-Personal Website: https://hardikprabhu.github.io/
+My professional Homepage: https://hardikprabhu.github.io/
 
 
 <!---
