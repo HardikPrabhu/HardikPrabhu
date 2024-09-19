@@ -11,6 +11,13 @@ Feel free to reach out for collaborations or discussions on machine learning!
 - **LinkedIn**: www.linkedin.com/in/hardik-prabhu
 - **GitHub**: You're already here! Feel free to explore my repositories.
 
+### Currently Focusing on
+
+- RAG Systems
+- Time Series Anomaly Detection
+- Measure Theory and Integration
+
+
 <!---
 HardikPrabhu/HardikPrabhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
