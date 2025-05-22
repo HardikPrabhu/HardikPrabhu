@@ -1,21 +1,27 @@
 # About Me
+
 Machine Learning Researcher at [Cloudaeye](https://www.cloudaeye.com/). Previously worked at the Indian Institute of Science as a Research Associate. 
 Graduated from Chennai Mathematical Institute with a Master's in Data Science.
 
-Open to collaborating on deep learning research projects.
+
 
 ### Get in Touch
+
+[![Website](https://img.shields.io/badge/Website-hardikprabhu.github.io-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://hardikprabhu.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hardik%20Prabhu-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardik-prabhu)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Hardik%20Prabhu-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=UVGQmZMAAAAJ&hl=en)
+
 Feel free to reach out for collaborations or discussions on machine learning!
 
-- **Professional Homepage**: [https://hardikprabhu.github.io/](https://hardikprabhu.github.io/)
-- **LinkedIn**: www.linkedin.com/in/hardik-prabhu
-- **GitHub**: You're already here! Feel free to explore my repositories.
 
 ### Currently Focusing on
 
 - RAG Systems
-- Time Series Anomaly Detection
-- Measure Theory and Integration
+- Unsupervised Deep Learning 
+- Anomaly Detection
+- Automated Code Review @ [Cloudaeye](https://www.cloudaeye.com/)
+
+
 
 
 <!---
